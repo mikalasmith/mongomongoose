@@ -1,0 +1,30 @@
+{
+  "name": "mongomongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikalasmith/mongomongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikalasmith/mongomongoose/issues"
+  },
+  "homepage": "https://github.com/mikalasmith/mongomongoose#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "logger": "0.0.1",
+    "mongoose": "^5.2.4",
+    "request": "^2.87.0"
+  }
+}
